@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40435'
     url: http://www.gutenberg.org/2009/agents/40435
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40768#Les-Cent-Nouvelles-Nouvelles-tome-II
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2012-09-15'
 gutenberg_type: Text
